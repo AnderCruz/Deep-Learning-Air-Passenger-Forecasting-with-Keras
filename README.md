@@ -2,7 +2,7 @@
 
 This project demonstrates how to use **Deep Learning models** to predict future values in **time series data**. The dataset used represents the **monthly number of international airline passengers**, and the goal is to forecast future passenger traffic for business planning.
 
----
+
 
 ## Project Overview
 
@@ -15,7 +15,7 @@ In this project, we:
 * Explore the impact of **recurrent neural networks (RNNs)** such as LSTMs
 * Evaluate forecasting performance with standard error metrics
 
----
+
 
 ## Project Workflow
 
@@ -45,7 +45,7 @@ In this project, we:
    * Generate predictions for future passenger numbers
    * Visualize forecast vs. historical data
 
----
+
 
 ## Project Structure
 
@@ -60,7 +60,6 @@ deep-learning-air-passengers
 └── requirements.txt      # Dependencies
 ```
 
----
 
 ## Technologies & Libraries
 
@@ -71,7 +70,7 @@ deep-learning-air-passengers
 * **Scikit-learn** → Data scaling & metrics
 * **Jupyter Notebook** → Experimentation
 
----
+
 
 ## Getting Started
 
@@ -96,7 +95,7 @@ jupyter notebook notebooks/Temporaiskeras.ipynb
 
 4. Run all cells to train the LSTM model and generate forecasts.
 
----
+
 
 ## Results
 
